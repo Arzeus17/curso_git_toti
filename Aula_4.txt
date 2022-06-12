@@ -1,0 +1,328 @@
+    1  ssh-keygen -t ed25519 -C luisalejandroariza@gmail.com
+    2  cls
+    3  clear
+    4  cd /c/User/Jose Nuñez/.ssh/
+    5  ls
+    6  clear
+    7  cd /c/Users/
+    8  ls
+    9  cd /c/Users/Jose N��ez/.ssh/
+   10  cd /c/Users/Jose Nùñez/.ssh/
+   11  $ cd /c/Users/Jose N��ez/
+   12  cd /c/Users/'Jose N��ez'/
+   13  ls
+   14  cd /c/Users/'Jose N��ez'/.ssh/
+   15  cd /c/Users/'Jose Nùñez'/
+   16  ls
+   17  cd /c/Users/'Jose Nùñez'/.ssh/
+   18  ls
+   19  clear
+   20  cd /c/Users/'Jose Nùñez'/.ssh/
+   21  ls
+   22  cat id_ed25519.pub
+   23  eval $(ssh-agent -s)
+   24  ssh-add id_ed25519
+   25  openssl sha1 Introduction Suspension.docx
+   26  openssl sha1 Cd.txt
+   27  openssl sha1 Cd.txt
+   28  ls
+   29  mkdir livro-receitas
+   30  ls
+   31  clear
+   32  ls
+   33  cd workspace
+   34  ls
+   35  git init
+   36  ls
+   37  cd livro-receitas
+   38  ls
+   39  ls -a
+   40  ls -a
+   41  cd .git
+   42  ls
+   43  cd ..
+   44  clear
+   45  git config --global user.email "luisalejandroariza@gmail.com"
+   46  git config --global user.name arzeus17
+   47  git add *
+   48  git commit -m "commit inicial"
+   49  ls
+   50  git status
+   51  mkdir receitas
+   52  ls
+   53  mv strogonoff.md/receitas/
+   54  mv strogonoff.md/receitas/
+   55  mv strogonoff.md ./receitas/
+   56  ls
+   57  cd receitas
+   58  cd ..
+   59  cd workspace
+   60  ls
+   61  ls
+   62  ls workspace
+   63  ls livro-receitas
+   64  cd livro-receitas
+   65  cd workspace
+   66  cd livro-receitas
+   67  ls
+   68  cd receitas
+   69  ls
+   70  cd ..
+   71  git status
+   72  git add strogonoff.md receitas/
+   73  git status
+   74  git commit -m "cria pasta receitas, move arquivo para receitas"
+   75  git status
+   76  ls
+   77  echo > README.md receitas/
+   78  git status
+   79  git status
+   80  git add *
+   81  ls
+   82  git status
+   83  git commit -m "adiciona index"
+   84  clear
+   85  git conf --list
+   86  cd Dcuments
+   87  cd..
+   88  dc ..
+   89  git config --list
+   90  git config --global --unset user.name
+   91  git config --global user.name "Arzeus17"
+   92  git config --list
+   93  ls
+   94  cd receitas
+   95  ls
+   96  git remote add origin https://github.com/Arzeus17/livro-recetas.git
+   97  git remote -v
+   98  git status
+   99  git push origin master
+  100  git push origin master
+  101  ls
+  102  ls -a
+  103  ls..
+  104  ls ..
+  105  pwd
+  106  cd tmp/
+  107  pwd
+  108  cd ..
+  109  cd ~
+  110  mkdir comandos
+  111  ls
+  112  git config user.name
+  113  git config user.email
+  114  ls
+  115  cd Desktop
+  116  mkdir NovaPasta
+  117  mkdir Nova Pasta
+  118  mkdir 'Nova Pasta'
+  119  ls
+  120  mkdir versionamiento
+  121  cd versionamiento
+  122  touch arquivo
+  123  touch texto.txt
+  124  cat texto.txt
+  125  git config user.name
+  126  git config user.mail
+  127  clear
+  128  cd ~
+  129  pwd
+  130  cd Desktop/
+  131  mkdir projeto-cronos
+  132  ls
+  133  cd proj
+  134  cd projeto-cronos
+  135  touch index.txt
+  136  git init
+  137  git status
+  138  git add index.txt
+  139  git status
+  140  git commit -m 'adicionando arquivo index.txt'
+  141  git status
+  142  git status
+  143  git add .
+  144  git status
+  145  exit
+  146  cd Desktop/
+  147  mkdir introducaoGIT
+  148  cd introducaoGIT
+  149  pwd
+  150  git init
+  151  echo 'Versionamento de Código' > readme.md
+  152  git status
+  153  git add readme.md
+  154  git status
+  155  git commit -m 'Meu primeiro commite'
+  156  git status
+  157  echo '*por Luis Alejandro Ariza' >> readme.md
+  158  git status
+  159  git commit -am 'Inserindo meu nome no arquivo'
+  160  git status
+  161  git log
+  162  git log --pretty=one line
+  163  git log --pretty=oneline
+  164  git log -p -1
+  165  pwd 0
+  166  git status
+  167  git reset --soft HEAD~
+  168  git log
+  169  git status
+  170  git commit -m 'Adicionando me nome'
+  171  git status
+  172  git log
+  173  git status
+  174  mkdir imagens/
+  175  cd imagens/
+  176  touch foto.png
+  177  ls
+  178  echo imagens/ > .gitignore
+  179  git status
+  180  git commit -m 'adicionando a pasta imagens ao gitignore'
+  181  clear
+  182  ssh-keygen -t rsa -b 4096 -C 'luisalejandroariza@gmail.com'
+  183  ls ~/ .ssh
+  184  ls ~/.ssh
+  185  cat ~/.shh/id_rsa.pub
+  186  cat~/.shh/id_rsa.pub
+  187  ls
+  188  ls -a
+  189  ./
+  190  ../
+  191  ls ..
+  192  pwd
+  193  cd Desktop/
+  194  cd ..
+  195  cd~
+  196  cd ~
+  197  mkdir Comandos
+  198  mkdir newComandos
+  199  mkdir pastatoti carpetatoti
+  200  mkdir 'pasta toti'
+  201  mkdir -p newtoti/old
+  202  rm -r pastatoti carpetatoti
+  203  mv 'pasta toti' pasta_toti
+  204  mv newtoti pasta_toti/
+  205  touch arquivo.txt
+  206  cp arquivo.txt pasta_toti/
+  207  echo 'mensagem' > comando.txt
+  208  cat 
+  209  cat > comando.txt
+  210  cat comando.txt
+  211  cat >> comando.txt
+  212  histoy > historico.txt
+  213  history > historico.txt
+  214  git config user.name
+  215  cd ~
+  216  ls
+  217  cd Documents/
+  218  ls
+  219  pwd
+  220  cd Documents
+  221  cd '0 toti'/
+  222  ls
+  223  mkdir curso_git_toti
+  224  cd curso_git_toti
+  225  git config Arzeus17
+  226  git config
+  227  git config user.name
+  228  git config Arzeus17
+  229  git config luisalejandroariza@gmail.com
+  230  git config user.name
+  231  git init
+  232  git status
+  233  echo '#Aprendendo usar o Git' > readme.md
+  234  git status
+  235  git add readme.md
+  236  git status
+  237  git add readme.md
+  238  pwd
+  239  cd Documents/
+  240  cd '0 toti'/
+  241  ls -a
+  242  cd curso_git_toti/
+  243  ls -a
+  244  git status
+  245  git commit -m 'Commit inicial'
+  246  git status
+  247  echo '##Aula 1' >> readme.md
+  248  git status
+  249  echo 'Luis Alejandro Ariza' > participantes.txt
+  250  git status
+  251  git add.
+  252  git status
+  253  git add .
+  254  git status
+  255  git restore --staged participantes.txt
+  256  git status
+  257  git add participantes.txt
+  258  git status
+  259  git restore --staged
+  260  git restore --staged .
+  261  git status
+  262  git commit -am 'Alteraçao no readme'
+  263  git status
+  264  clear
+  265  git log
+  266  git add participantes.txt
+  267  git status
+  268  git commit -m 'Adicionando participantes.txt'
+  269  git log
+  270  git log --pretty=oneline
+  271  git log --stat
+  272  cd Documents/
+  273  cd '0 toti'
+  274  cd curso_git_toti/
+  275  git status
+  276  git log -p
+  277  cd Documents/
+  278  cd '0 toti'/
+  279  cd curso_git-toti/
+  280  cd curso_git_toti
+  281  git log -p -2
+  282  cd Documents/
+  283  cd '0 toti'/
+  284  cd curso_git_toti
+  285  git status
+  286  touch teste
+  287  git add teste
+  288  git status
+  289  git commit -m 'Commit de teste'
+  290  git reset --soft HEAD~
+  291  git log
+  292  git status
+  293  git commit -m 'commit teste'
+  294  git reset --hard HEAD~
+  295  git log
+  296  git status
+  297  git log --pretty=oneline
+  298  git checkout HEAD~
+  299  git status
+  300  git log
+  301  ls
+  302  git chekout master
+  303  log
+  304  git log
+  305  git checkout HEAD~ 2
+  306  git checkout HEAD~2
+  307  git checkout master
+  308  clear
+  309  mkdir .vscode
+  310  touch conf.txt
+  311  mv conf.txt .vscode/
+  312  ls .vscode/
+  313  ls
+  314  ls -a
+  315  git status
+  316  echo '.vscode/' > .gitignore
+  317  git status
+  318  touch pessoal.conf' >> .gitignore
+pessoal.conf
+
+  319  touch pessoal.conf
+  320  git status
+  321  echo 'pessoal.conf' >> .gitignore
+  322  git status
+  323  git add .gitignore
+  324  git commit -m 'Adicionando arquivo .gitignore'
+  325  git status
+  326  history > Aula_4.txt
